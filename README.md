@@ -7,10 +7,13 @@ Fork this repo, then download your own copy of it. Then navigate into this direc
 Then activate the virtual environment:
 
 '''sh
-pipenv install
-pipenv shell
+pip install ________ # TODO: update with specific command
 '''
 
 ## Usage
 
-TODO 
+'''py
+from lambdata_poe.my_mod import enlarge
+
+print(enlarge(9))
+'''
