@@ -6,16 +6,17 @@ Fork this repo, then download your own copy of it. Then navigate into this direc
 
 Then activate the virtual environment:
 
-'''sh
+```sh
 pipenv install
 pipenv shell
-'''
+```
 
 ## Usage
 
-'''sh
+```sh
 python -m lambdata_poe.my_script
 python -m lambdata_poe.my_mod
 python -m lambdata_daniel_benson.null_checker
+python -m lambdata_daniel_benson.df_column_adder
 python -m lambdata_daniel_benson.data_frame
-'''
+```

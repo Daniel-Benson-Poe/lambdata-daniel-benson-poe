@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="lambdata_daniel_benson", # the name that you will install via pip
-    version="1.0",
+    version="1.1",
     author="Daniel Benson",
     author_email="djbenson741@gmail.com",
     description="Checks dataframe for null values",
